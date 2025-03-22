@@ -88,5 +88,10 @@
   "remove_from_queue_end": "Excluir episódio da fila quando concluído",
   "remove_from_downloads_end": "Excluir download após concluído",
   "download_new": "Baixar automaticamente novos episódios",
-  "queue_new": "Adicionar automaticamente novos episódios à fila"
+  "queue_new": "Adicionar automaticamente novos episódios à fila",
+  "import/export": "Importar / exportar",
+  "import_opml": "Importar inscrições de arquivo OPML",
+  "export_opml": "Exportar inscrições para arquivo OPML",
+  "change_podcast_cover": "Alterar a capa do podcast",
+  "podcast_cover_url": "URL da capa do podcast"
 }
