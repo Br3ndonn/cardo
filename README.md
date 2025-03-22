@@ -88,6 +88,10 @@ Be free of summiting a PR if you get something good!
       <td style="color: green;">100%</td>
     </tr>
      <tr>
+      <td>pt</td>
+      <td style="color: green;">100%</td>
+    </tr>
+     <tr>
       <td>en</td>
       <td style="color: green;">100%</td>
     </tr>
@@ -98,10 +102,6 @@ Be free of summiting a PR if you get something good!
      <tr>
       <td>cn</td>
       <td style="color: green;">95%</td>
-    </tr>
-     <tr>
-      <td>pt</td>
-      <td style="color: green;">94%</td>
     </tr>
   </tbody>
 </table>
